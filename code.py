@@ -1,1 +1,1 @@
-print("Arjunan")
+print("Ajai")
